@@ -1,0 +1,6 @@
+{
+  "name": "Math Riddles",
+  "description": "Minimalist math and logic puzzle game to challenge your brain, solve equations, geometric patterns, and number sequences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
